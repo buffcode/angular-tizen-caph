@@ -1,6 +1,6 @@
 {
-  "name": "tizen-caph-angular",
-  "homepage": "https://github.com/buffcode/tizen-caph-angular",
+  "name": "angular-tizen-caph",
+  "homepage": "https://github.com/buffcode/angular-tizen-caph",
   "description": "Samsung Tizen CAPH Angular library",
   "main": "caph-angular.min.js",
   "keywords": [
