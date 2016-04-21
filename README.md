@@ -1,9 +1,9 @@
-# tizen-caph-angular
-Shim repository for Samsung Tizen CAPH
+# angular-tizen-caph
+Shim repository for Samsung Tizen CAPH (Angular version)
 
 ## Installation
 ```bash
-$ bower install tizen-caph-angular
+$ bower install angular-tizen-caph
 ```
 
 ## Copyright
